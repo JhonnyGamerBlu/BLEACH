@@ -7,11 +7,10 @@
 }
 
 body {
-  position: relative; /* Para posicionar o texto em relação ao corpo da página */
+  position: relative; 
 }
 
-.texto-direita {
-  position: absolute;
+.introdução p {
   top: 20px;
   right: 20px;
 }
