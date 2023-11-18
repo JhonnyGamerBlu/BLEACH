@@ -6,8 +6,12 @@
   width: 300px;
 }
 
-.introdução p {
-  position: absolute; 
-  top: 20px; 
+body {
+  position: relative; /* Para posicionar o texto em relação ao corpo da página */
+}
+
+.texto-direita {
+  position: absolute;
+  top: 20px;
   right: 20px;
 }
