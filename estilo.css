@@ -4,7 +4,8 @@
 
 .introdução p{
   text-align: left;
-  width: 70px;
+  font-size: 70px;
+  position: absolut;
 }
  
 #IG2{
