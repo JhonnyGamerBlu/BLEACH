@@ -7,6 +7,7 @@
 }
 
 .introdução p {
-  float: right;
-   width: 50%;
+  position: absolute; 
+  top: 20px; 
+  right: 20px;
 }
