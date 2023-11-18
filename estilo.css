@@ -2,8 +2,11 @@
   height: 180px;
 }
 
-
- 
 #IG2{
   width: 300px;
+}
+
+.introdução p {
+  float: right;
+   width: 50%;
 }
