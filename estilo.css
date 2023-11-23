@@ -11,6 +11,9 @@ body {
 }
 
 .introdução p {
-  top: 20px;
-  right: 20px;
+  top: 430px;
+  right: 350px;
+  width: 50%;
+  position: absolute;
+  font-size: 18px;
 }
